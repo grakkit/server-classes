@@ -1,6 +1,15 @@
 {
+   "dependencies": {
+      "@grakkit/core-classes": "1.0.1"
+   },
    "description": "",
    "name": "@grakkit/server-classes",
+   "publishConfig": {
+      "access": "public"
+   },
+   "scripts": {
+      "garbo1234": "npm publish"
+   },
    "types": "index.d.ts",
-   "version": "1.0.1"
+   "version": "1.0.3"
 }
